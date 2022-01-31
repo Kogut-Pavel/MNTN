@@ -6,7 +6,8 @@
 
 @media (max-width: 1200px) {
     .header {
-        margin-bottom: 250px;
+        margin-bottom: 150px;
+        height: 100vh;
     }
     .hero-title {
         font-size: 68px;
@@ -90,6 +91,9 @@
 }
 
 @media (max-width: 560px) {
+    .nav-wrapper {
+        margin-bottom: 150px;
+    }
     .hero-title {
         font-size: 38px;
     }

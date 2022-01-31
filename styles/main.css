@@ -129,7 +129,7 @@ img {
   width: 22px;
   height: 22px;
   transform: translateY(-50%);
-  background-image: url("/img/icons/account.svg");
+  background-image: url("../img/icons/account.svg");
 }
 
 .nav-button {
@@ -292,7 +292,7 @@ img {
   width: 16px;
   height: 24px;
   transform: translateY(-50%);
-  background-image: url("/img/icons/arrow.svg");
+  background-image: url("../img/icons/arrow.svg");
 }
 
 /* ARTICLE */
@@ -384,7 +384,7 @@ img {
   width: 24px;
   height: 16px;
   transform: translateY(-50%);
-  background-image: url("/img/icons/arrow_right.svg");
+  background-image: url("../img/icons/arrow_right.svg");
   transition: all 0.2s ease;
 }
 
